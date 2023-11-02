@@ -1,0 +1,1 @@
+This project uses the Q-learning algorithm and Pytorch in order beat Atari games by finding an optimal policy that converges to a maximal reward. Atari ROMs can be found here: http://www.atarimania.com/rom_collection_archive_atari_2600_roms.html 
